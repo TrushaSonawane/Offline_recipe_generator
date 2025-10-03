@@ -14,24 +14,6 @@ Built with **Python + Tkinter**, this desktop app helps you discover recipes bas
 
 ---
 
-## 🖼️ Screenshots  
-
-### Main Interface  
-![Main UI](Screenshot%20(301).png)  
-
-### Surprise Me Mode  
-![Surprise Me](Screenshot%20(304).png)  
-
-### Ingredient-based Search  
-![Search Recipes](Screenshot%20(305).png)  
-
-### No Recipe Match  
-![No Recipe](Screenshot%20(306).png)  
-
-### Add New Recipe  
-![Add Recipe](Screenshot%20(307).png)  
-
----
 
 ## ⚙️ Installation
 
@@ -47,23 +29,6 @@ Built with **Python + Tkinter**, this desktop app helps you discover recipes bas
    ```bash
    python strawberry_recipes_offline.py
    ```
-
----
-
-## 📂 Project Structure
-```
-offline-recipe-generator/
-│
-├── strawberry_recipes_offline.py   # Main Tkinter app
-├── recipes_local.json              # Local JSON recipe database
-├── Screenshot (301).png            # Screenshots for README
-├── Screenshot (302).png
-├── Screenshot (303).png
-├── Screenshot (304).png
-├── Screenshot (305).png
-├── Screenshot (306).png
-└── Screenshot (307).png
-```
 
 ---
 
