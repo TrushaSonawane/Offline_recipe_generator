@@ -1,4 +1,4 @@
-# 🍓 Strawberry Recipe Picker
+# 🍓 Recipe Picker 🍓
 
 Offline recipe generator — **fast, light, and fun.**  
 Built with **Python + Tkinter**, this desktop app helps you discover recipes based on the ingredients you have and the time you’ve got.
